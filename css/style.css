@@ -1,0 +1,40 @@
+
+
+.margin1{
+    padding-left: 10px;
+
+}
+body{
+    font: 20px Arial, sans-serif;
+}
+.name {
+    text-align: center;
+}
+.margin {
+    padding-top: 10px;
+}
+
+.navbar {
+    background-color: #8a8ad4;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.quem-somos{ 
+    background-color: #D5F5E3;
+    color: #145A32;
+}
+
+.margin{
+        padding-bottom: 50px;
+        padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #FCF3CF;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
